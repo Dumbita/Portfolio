@@ -1,0 +1,23 @@
+#pageStructure{
+
+    display: block;
+    justify-content: center;
+
+    margin: 40px;
+
+}
+
+iframe{
+
+    height: 100%;
+    width:70%;
+
+}
+
+#Bottom section{
+
+display: block;
+
+padding:20px;
+
+}

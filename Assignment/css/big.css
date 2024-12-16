@@ -1,0 +1,39 @@
+#pageStructure{
+
+    display: flex;
+    justify-content: center;
+
+    margin: 40px;
+
+}
+
+aside{
+
+    width: 40%;
+    float: right;
+
+    margin-left: 50px;
+
+}
+
+iframe{
+
+    height: 100%;
+
+}
+
+#Bottom section{
+
+display: block;
+
+padding:20px;
+
+}
+#Bottom section section{
+
+    display: flex;
+    justify-content: space-around;
+    
+    padding:20px;
+    
+    }
